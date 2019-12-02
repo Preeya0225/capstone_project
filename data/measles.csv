@@ -8,6 +8,7 @@ Notification rate ,N/1000000,1999-01-01,IT,Italy,2038338.01
 Notification rate ,N/1000000,1999-01-01,NL,Netherlands,63450.87000000001
 Notification rate ,N/1000000,1999-01-01,NO,Norway,0.0
 Notification rate ,N/1000000,1999-01-01,SE,Sweden,112939.18999999999
+Notification rate ,N/1000000,1999-01-01,UK,United Kingdom,17070.760000000002
 Notification rate ,N/1000000,1999-02-01,AT,Austria,375823.94
 Notification rate ,N/1000000,1999-02-01,DK,Denmark,0.0
 Notification rate ,N/1000000,1999-02-01,EL,Greece,1767808.9
@@ -35,6 +36,7 @@ Notification rate ,N/1000000,1999-04-01,FI,Finland,0.0
 Notification rate ,N/1000000,1999-04-01,IE,Ireland,2411571.68
 Notification rate ,N/1000000,1999-04-01,IT,Italy,8785939.69
 Notification rate ,N/1000000,1999-04-01,NL,Netherlands,253803.48000000004
+Notification rate ,N/1000000,1999-04-01,NO,Norway,0.0
 Notification rate ,N/1000000,1999-04-01,SE,Sweden,0.0
 Notification rate ,N/1000000,1999-04-01,UK,United Kingdom,102424.58
 Notification rate ,N/1000000,1999-05-01,AT,Austria,250549.28999999998
@@ -62,6 +64,7 @@ Notification rate ,N/1000000,1999-07-01,DK,Denmark,188197.14
 Notification rate ,N/1000000,1999-07-01,EL,Greece,0.0
 Notification rate ,N/1000000,1999-07-01,FI,Finland,0.0
 Notification rate ,N/1000000,1999-07-01,IE,Ireland,2411571.68
+Notification rate ,N/1000000,1999-07-01,IT,Italy,3092650.77
 Notification rate ,N/1000000,1999-07-01,NL,Netherlands,8375514.94
 Notification rate ,N/1000000,1999-07-01,NO,Norway,224955.22
 Notification rate ,N/1000000,1999-07-01,SE,Sweden,0.0
@@ -89,6 +92,7 @@ Notification rate ,N/1000000,1999-09-01,UK,United Kingdom,102424.58
 Notification rate ,N/1000000,1999-10-01,AT,Austria,501098.59
 Notification rate ,N/1000000,1999-10-01,DK,Denmark,0.0
 Notification rate ,N/1000000,1999-10-01,EL,Greece,744340.59
+Notification rate ,N/1000000,1999-10-01,FI,Finland,0.0
 Notification rate ,N/1000000,1999-10-01,IE,Ireland,4823143.37
 Notification rate ,N/1000000,1999-10-01,IT,Italy,562300.1399999999
 Notification rate ,N/1000000,1999-10-01,NL,Netherlands,42194829.07
@@ -145,6 +149,7 @@ Notification rate ,N/1000000,2000-03-01,NO,Norway,0.0
 Notification rate ,N/1000000,2000-03-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2000-03-01,SE,Sweden,338545.95999999996
 Notification rate ,N/1000000,2000-03-01,UK,United Kingdom,119077.48999999999
+Notification rate ,N/1000000,2000-04-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2000-04-01,EL,Greece,0.0
 Notification rate ,N/1000000,2000-04-01,FI,Finland,0.0
 Notification rate ,N/1000000,2000-04-01,IE,Ireland,123359889.24
@@ -172,6 +177,7 @@ Notification rate ,N/1000000,2000-06-01,IT,Italy,5041852.289999999
 Notification rate ,N/1000000,2000-06-01,NL,Netherlands,63035.99999999999
 Notification rate ,N/1000000,2000-06-01,NO,Norway,0.0
 Notification rate ,N/1000000,2000-06-01,PT,Portugal,0.0
+Notification rate ,N/1000000,2000-06-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2000-06-01,UK,United Kingdom,68044.28
 Notification rate ,N/1000000,2000-07-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2000-07-01,EL,Greece,0.0
@@ -199,6 +205,7 @@ Notification rate ,N/1000000,2000-09-01,FI,Finland,0.0
 Notification rate ,N/1000000,2000-09-01,IE,Ireland,12441877.24
 Notification rate ,N/1000000,2000-09-01,IT,Italy,579725.17
 Notification rate ,N/1000000,2000-09-01,NL,Netherlands,0.0
+Notification rate ,N/1000000,2000-09-01,NO,Norway,0.0
 Notification rate ,N/1000000,2000-09-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2000-09-01,SE,Sweden,112848.65
 Notification rate ,N/1000000,2000-09-01,UK,United Kingdom,68044.28
@@ -226,6 +233,7 @@ Notification rate ,N/1000000,2000-12-01,DK,Denmark,187616.55
 Notification rate ,N/1000000,2000-12-01,EL,Greece,0.0
 Notification rate ,N/1000000,2000-12-01,FI,Finland,193374.88999999998
 Notification rate ,N/1000000,2000-12-01,IE,Ireland,4500253.47
+Notification rate ,N/1000000,2000-12-01,IT,Italy,544590.31
 Notification rate ,N/1000000,2000-12-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2000-12-01,NO,Norway,0.0
 Notification rate ,N/1000000,2000-12-01,PT,Portugal,97570.28
@@ -254,6 +262,7 @@ Notification rate ,N/1000000,2001-02-01,IE,Ireland,6261768.53
 Notification rate ,N/1000000,2001-02-01,IT,Italy,948022.19
 Notification rate ,N/1000000,2001-02-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2001-02-01,MT,Malta,0.0
+Notification rate ,N/1000000,2001-02-01,NL,Netherlands,62550.52
 Notification rate ,N/1000000,2001-02-01,NO,Norway,0.0
 Notification rate ,N/1000000,2001-02-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2001-02-01,SE,Sweden,0.0
@@ -282,6 +291,7 @@ Notification rate ,N/1000000,2001-04-01,IT,Italy,1808264.5399999998
 Notification rate ,N/1000000,2001-04-01,LU,Luxembourg,2277904.3200000003
 Notification rate ,N/1000000,2001-04-01,MT,Malta,0.0
 Notification rate ,N/1000000,2001-04-01,NL,Netherlands,250202.11
+Notification rate ,N/1000000,2001-04-01,NO,Norway,0.0
 Notification rate ,N/1000000,2001-04-01,PT,Portugal,193596.33000000002
 Notification rate ,N/1000000,2001-04-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2001-04-01,UK,United Kingdom,50847.64
@@ -310,6 +320,7 @@ Notification rate ,N/1000000,2001-06-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2001-06-01,MT,Malta,0.0
 Notification rate ,N/1000000,2001-06-01,NL,Netherlands,125101.04999999999
 Notification rate ,N/1000000,2001-06-01,NO,Norway,0.0
+Notification rate ,N/1000000,2001-06-01,PT,Portugal,193596.33000000002
 Notification rate ,N/1000000,2001-06-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2001-06-01,UK,United Kingdom,67796.86
 Notification rate ,N/1000000,2001-07-01,DE,Germany,4789718.0
@@ -338,6 +349,7 @@ Notification rate ,N/1000000,2001-08-01,MT,Malta,0.0
 Notification rate ,N/1000000,2001-08-01,NL,Netherlands,375303.17000000004
 Notification rate ,N/1000000,2001-08-01,NO,Norway,444105.34
 Notification rate ,N/1000000,2001-08-01,PT,Portugal,193596.33000000002
+Notification rate ,N/1000000,2001-08-01,SE,Sweden,112577.20999999999
 Notification rate ,N/1000000,2001-08-01,UK,United Kingdom,50847.64
 Notification rate ,N/1000000,2001-09-01,DE,Germany,972531.5700000001
 Notification rate ,N/1000000,2001-09-01,DK,Denmark,186943.42
@@ -366,6 +378,7 @@ Notification rate ,N/1000000,2001-10-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2001-10-01,NO,Norway,0.0
 Notification rate ,N/1000000,2001-10-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2001-10-01,SE,Sweden,0.0
+Notification rate ,N/1000000,2001-10-01,UK,United Kingdom,67796.86
 Notification rate ,N/1000000,2001-11-01,DE,Germany,1896436.57
 Notification rate ,N/1000000,2001-11-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2001-11-01,EL,Greece,184570.13
@@ -394,6 +407,7 @@ Notification rate ,N/1000000,2001-12-01,NO,Norway,0.0
 Notification rate ,N/1000000,2001-12-01,PT,Portugal,96798.15999999999
 Notification rate ,N/1000000,2001-12-01,SE,Sweden,337731.65
 Notification rate ,N/1000000,2001-12-01,UK,United Kingdom,406781.17000000004
+Notification rate ,N/1000000,2002-01-01,AT,Austria,
 Notification rate ,N/1000000,2002-01-01,DE,Germany,9885940.62
 Notification rate ,N/1000000,2002-01-01,DK,Denmark,4098090.4000000004
 Notification rate ,N/1000000,2002-01-01,EL,Greece,0.0
@@ -422,6 +436,7 @@ Notification rate ,N/1000000,2002-02-01,NL,Netherlands,124182.82999999999
 Notification rate ,N/1000000,2002-02-01,NO,Norway,221040.09
 Notification rate ,N/1000000,2002-02-01,PT,Portugal,192406.31
 Notification rate ,N/1000000,2002-02-01,SE,Sweden,224488.86000000002
+Notification rate ,N/1000000,2002-02-01,UK,United Kingdom,708985.63
 Notification rate ,N/1000000,2002-03-01,AT,Austria,
 Notification rate ,N/1000000,2002-03-01,DE,Germany,11111069.459999999
 Notification rate ,N/1000000,2002-03-01,DK,Denmark,0.0
@@ -450,6 +465,7 @@ Notification rate ,N/1000000,2002-04-01,MT,Malta,7601845.72
 Notification rate ,N/1000000,2002-04-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2002-04-01,NO,Norway,221040.09
 Notification rate ,N/1000000,2002-04-01,PT,Portugal,96203.15
+Notification rate ,N/1000000,2002-04-01,SE,Sweden,224488.86000000002
 Notification rate ,N/1000000,2002-04-01,UK,United Kingdom,253209.15
 Notification rate ,N/1000000,2002-05-01,AT,Austria,
 Notification rate ,N/1000000,2002-05-01,DE,Germany,6307594.01
@@ -478,6 +494,7 @@ Notification rate ,N/1000000,2002-06-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2002-06-01,MT,Malta,0.0
 Notification rate ,N/1000000,2002-06-01,NL,Netherlands,62091.409999999996
 Notification rate ,N/1000000,2002-06-01,NO,Norway,0.0
+Notification rate ,N/1000000,2002-06-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2002-06-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2002-06-01,UK,United Kingdom,118164.27
 Notification rate ,N/1000000,2002-07-01,AT,Austria,
@@ -506,6 +523,7 @@ Notification rate ,N/1000000,2002-08-01,IT,Italy,8422898.719999999
 Notification rate ,N/1000000,2002-08-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2002-08-01,MT,Malta,0.0
 Notification rate ,N/1000000,2002-08-01,NL,Netherlands,0.0
+Notification rate ,N/1000000,2002-08-01,NO,Norway,663120.2899999999
 Notification rate ,N/1000000,2002-08-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2002-08-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2002-08-01,UK,United Kingdom,84403.04999999999
@@ -534,6 +552,7 @@ Notification rate ,N/1000000,2002-10-01,IE,Ireland,1282149.25
 Notification rate ,N/1000000,2002-10-01,IT,Italy,4685237.41
 Notification rate ,N/1000000,2002-10-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2002-10-01,MT,Malta,0.0
+Notification rate ,N/1000000,2002-10-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2002-10-01,NO,Norway,0.0
 Notification rate ,N/1000000,2002-10-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2002-10-01,SE,Sweden,0.0
@@ -554,6 +573,7 @@ Notification rate ,N/1000000,2002-11-01,PT,Portugal,96203.15
 Notification rate ,N/1000000,2002-11-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2002-11-01,UK,United Kingdom,489537.7
 Notification rate ,N/1000000,2002-12-01,AT,Austria,
+Notification rate ,N/1000000,2002-12-01,DE,Germany,642889.39
 Notification rate ,N/1000000,2002-12-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2002-12-01,EL,Greece,0.0
 Notification rate ,N/1000000,2002-12-01,ES,Spain,48738.549999999996
@@ -561,6 +581,7 @@ Notification rate ,N/1000000,2002-12-01,FI,Finland,0.0
 Notification rate ,N/1000000,2002-12-01,IE,Ireland,14872931.31
 Notification rate ,N/1000000,2002-12-01,IT,Italy,9475761.06
 Notification rate ,N/1000000,2002-12-01,LU,Luxembourg,0.0
+Notification rate ,N/1000000,2002-12-01,MT,Malta,0.0
 Notification rate ,N/1000000,2002-12-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2002-12-01,NO,Norway,0.0
 Notification rate ,N/1000000,2002-12-01,PT,Portugal,96203.15
@@ -577,6 +598,7 @@ Notification rate ,N/1000000,2003-01-01,IE,Ireland,37586483.59
 Notification rate ,N/1000000,2003-01-01,IT,Italy,16085976.899999999
 Notification rate ,N/1000000,2003-01-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2003-01-01,MT,Malta,0.0
+Notification rate ,N/1000000,2003-01-01,NL,Netherlands,61756.71
 Notification rate ,N/1000000,2003-01-01,NO,Norway,219671.49
 Notification rate ,N/1000000,2003-01-01,PT,Portugal,95743.32
 Notification rate ,N/1000000,2003-01-01,SE,Sweden,0.0
@@ -595,6 +617,7 @@ Notification rate ,N/1000000,2003-02-01,MT,Malta,0.0
 Notification rate ,N/1000000,2003-02-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2003-02-01,NO,Norway,0.0
 Notification rate ,N/1000000,2003-02-01,PT,Portugal,95743.32
+Notification rate ,N/1000000,2003-02-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2003-02-01,UK,United Kingdom,756284.7999999999
 Notification rate ,N/1000000,2003-03-01,AT,Austria,617263.14
 Notification rate ,N/1000000,2003-03-01,BE,Belgium,386255.33
@@ -613,6 +636,7 @@ Notification rate ,N/1000000,2003-03-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2003-03-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2003-03-01,UK,United Kingdom,1411731.6300000001
 Notification rate ,N/1000000,2003-04-01,AT,Austria,370357.87999999995
+Notification rate ,N/1000000,2003-04-01,BE,Belgium,289691.5
 Notification rate ,N/1000000,2003-04-01,DE,Germany,484633.00999999995
 Notification rate ,N/1000000,2003-04-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2003-04-01,EL,Greece,274831.73
@@ -633,6 +657,7 @@ Notification rate ,N/1000000,2003-05-01,DE,Germany,1041960.98
 Notification rate ,N/1000000,2003-05-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2003-05-01,EL,Greece,0.0
 Notification rate ,N/1000000,2003-05-01,ES,Spain,406427.89
+Notification rate ,N/1000000,2003-05-01,FI,Finland,0.0
 Notification rate ,N/1000000,2003-05-01,IE,Ireland,8829039.77
 Notification rate ,N/1000000,2003-05-01,IT,Italy,50638445.24
 Notification rate ,N/1000000,2003-05-01,LU,Luxembourg,0.0
@@ -654,6 +679,7 @@ Notification rate ,N/1000000,2003-06-01,IT,Italy,25485508.56
 Notification rate ,N/1000000,2003-06-01,LU,Luxembourg,2230649.11
 Notification rate ,N/1000000,2003-06-01,MT,Malta,0.0
 Notification rate ,N/1000000,2003-06-01,NL,Netherlands,0.0
+Notification rate ,N/1000000,2003-06-01,NO,Norway,219671.49
 Notification rate ,N/1000000,2003-06-01,PT,Portugal,95743.32
 Notification rate ,N/1000000,2003-06-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2003-06-01,UK,United Kingdom,672253.15
@@ -676,6 +702,7 @@ Notification rate ,N/1000000,2003-07-01,UK,United Kingdom,352932.89999999997
 Notification rate ,N/1000000,2003-08-01,AT,Austria,0.0
 Notification rate ,N/1000000,2003-08-01,BE,Belgium,289691.5
 Notification rate ,N/1000000,2003-08-01,DE,Germany,266548.14999999997
+Notification rate ,N/1000000,2003-08-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2003-08-01,EL,Greece,0.0
 Notification rate ,N/1000000,2003-08-01,ES,Spain,382520.36
 Notification rate ,N/1000000,2003-08-01,FI,Finland,0.0
@@ -699,6 +726,7 @@ Notification rate ,N/1000000,2003-09-01,IE,Ireland,3027099.3499999996
 Notification rate ,N/1000000,2003-09-01,IT,Italy,1347791.31
 Notification rate ,N/1000000,2003-09-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2003-09-01,MT,Malta,2517015.02
+Notification rate ,N/1000000,2003-09-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2003-09-01,NO,Norway,0.0
 Notification rate ,N/1000000,2003-09-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2003-09-01,SE,Sweden,111846.95999999999
@@ -723,6 +751,7 @@ Notification rate ,N/1000000,2003-11-01,AT,Austria,5185010.430000001
 Notification rate ,N/1000000,2003-11-01,BE,Belgium,386255.33
 Notification rate ,N/1000000,2003-11-01,DE,Germany,181737.38
 Notification rate ,N/1000000,2003-11-01,DK,Denmark,0.0
+Notification rate ,N/1000000,2003-11-01,EL,Greece,0.0
 Notification rate ,N/1000000,2003-11-01,ES,Spain,23907.52
 Notification rate ,N/1000000,2003-11-01,FI,Finland,0.0
 Notification rate ,N/1000000,2003-11-01,IE,Ireland,1765807.95
@@ -746,6 +775,7 @@ Notification rate ,N/1000000,2003-12-01,IT,Italy,840181.6
 Notification rate ,N/1000000,2003-12-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2003-12-01,MT,Malta,0.0
 Notification rate ,N/1000000,2003-12-01,NL,Netherlands,0.0
+Notification rate ,N/1000000,2003-12-01,NO,Norway,0.0
 Notification rate ,N/1000000,2003-12-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2003-12-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2003-12-01,UK,United Kingdom,403351.89
@@ -770,6 +800,7 @@ Notification rate ,N/1000000,2004-02-01,AT,Austria,245622.6
 Notification rate ,N/1000000,2004-02-01,BE,Belgium,96186.94
 Notification rate ,N/1000000,2004-02-01,CZ,Czech Republic,0.0
 Notification rate ,N/1000000,2004-02-01,DE,Germany,121165.59999999999
+Notification rate ,N/1000000,2004-02-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2004-02-01,EL,Greece,0.0
 Notification rate ,N/1000000,2004-02-01,ES,Spain,23503.170000000002
 Notification rate ,N/1000000,2004-02-01,FI,Finland,0.0
@@ -794,6 +825,7 @@ Notification rate ,N/1000000,2004-03-01,IE,Ireland,3226726.42
 Notification rate ,N/1000000,2004-03-01,IT,Italy,1495758.82
 Notification rate ,N/1000000,2004-03-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2004-03-01,MT,Malta,2500831.52
+Notification rate ,N/1000000,2004-03-01,NL,Netherlands,61508.05
 Notification rate ,N/1000000,2004-03-01,NO,Norway,655385.73
 Notification rate ,N/1000000,2004-03-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2004-03-01,SE,Sweden,0.0
@@ -819,6 +851,7 @@ Notification rate ,N/1000000,2004-05-01,AT,Austria,122811.3
 Notification rate ,N/1000000,2004-05-01,BE,Belgium,1442804.21
 Notification rate ,N/1000000,2004-05-01,CZ,Czech Republic,98083.95
 Notification rate ,N/1000000,2004-05-01,DE,Germany,181748.41
+Notification rate ,N/1000000,2004-05-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2004-05-01,EL,Greece,0.0
 Notification rate ,N/1000000,2004-05-01,ES,Spain,70509.51
 Notification rate ,N/1000000,2004-05-01,FI,Finland,0.0
@@ -844,6 +877,7 @@ Notification rate ,N/1000000,2004-06-01,IT,Italy,2069712.79
 Notification rate ,N/1000000,2004-06-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2004-06-01,MT,Malta,2500831.52
 Notification rate ,N/1000000,2004-06-01,NL,Netherlands,0.0
+Notification rate ,N/1000000,2004-06-01,NO,Norway,0.0
 Notification rate ,N/1000000,2004-06-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2004-06-01,SE,Sweden,0.0
 Notification rate ,N/1000000,2004-06-01,UK,United Kingdom,602069.52
@@ -898,6 +932,7 @@ Notification rate ,N/1000000,2004-09-01,NO,Norway,0.0
 Notification rate ,N/1000000,2004-09-01,PT,Portugal,0.0
 Notification rate ,N/1000000,2004-09-01,SE,Sweden,222824.59
 Notification rate ,N/1000000,2004-09-01,UK,United Kingdom,16724.15
+Notification rate ,N/1000000,2004-10-01,AT,Austria,245622.6
 Notification rate ,N/1000000,2004-10-01,BE,Belgium,0.0
 Notification rate ,N/1000000,2004-10-01,CZ,Czech Republic,0.0
 Notification rate ,N/1000000,2004-10-01,DE,Germany,36349.68
@@ -924,6 +959,7 @@ Notification rate ,N/1000000,2004-11-01,ES,Spain,23503.170000000002
 Notification rate ,N/1000000,2004-11-01,FI,Finland,0.0
 Notification rate ,N/1000000,2004-11-01,IE,Ireland,2730306.97
 Notification rate ,N/1000000,2004-11-01,IT,Italy,295673.25
+Notification rate ,N/1000000,2004-11-01,LU,Luxembourg,0.0
 Notification rate ,N/1000000,2004-11-01,MT,Malta,0.0
 Notification rate ,N/1000000,2004-11-01,NL,Netherlands,0.0
 Notification rate ,N/1000000,2004-11-01,NO,Norway,0.0
@@ -952,6 +988,7 @@ Notification rate ,N/1000000,2005-01-01,BE,Belgium,670122.4500000001
 Notification rate ,N/1000000,2005-01-01,BG,Bulgaria,0.0
 Notification rate ,N/1000000,2005-01-01,CY,Cyprus,0.0
 Notification rate ,N/1000000,2005-01-01,CZ,Czech Republic,0.0
+Notification rate ,N/1000000,2005-01-01,DE,Germany,921202.64
 Notification rate ,N/1000000,2005-01-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2005-01-01,EE,Estonia,0.0
 Notification rate ,N/1000000,2005-01-01,EL,Greece,0.0
@@ -980,6 +1017,7 @@ Notification rate ,N/1000000,2005-02-01,BG,Bulgaria,0.0
 Notification rate ,N/1000000,2005-02-01,CY,Cyprus,0.0
 Notification rate ,N/1000000,2005-02-01,CZ,Czech Republic,0.0
 Notification rate ,N/1000000,2005-02-01,DE,Germany,824233.9400000001
+Notification rate ,N/1000000,2005-02-01,DK,Denmark,0.0
 Notification rate ,N/1000000,2005-02-01,EE,Estonia,0.0
 Notification rate ,N/1000000,2005-02-01,EL,Greece,0.0
 Notification rate ,N/1000000,2005-02-01,ES,Spain,0.0
@@ -24680,6 +24718,7 @@ Reported confirmed cases,N,2019-08-01,UK,United Kingdom,20.0
 Vaccination coverage first dose,%,1999-01-01,AT,Austria,65.0
 Vaccination coverage first dose,%,1999-01-01,BE,Belgium,82.0
 Vaccination coverage first dose,%,1999-01-01,BG,Bulgaria,96.0
+Vaccination coverage first dose,%,1999-01-01,CY,Cyprus,87.0
 Vaccination coverage first dose,%,1999-01-01,CZ,Czech Republic,97.0
 Vaccination coverage first dose,%,1999-01-01,DE,Germany,92.0
 Vaccination coverage first dose,%,1999-01-01,DK,Denmark,92.0
@@ -24689,6 +24728,7 @@ Vaccination coverage first dose,%,1999-01-01,ES,Spain,95.0
 Vaccination coverage first dose,%,1999-01-01,FI,Finland,96.0
 Vaccination coverage first dose,%,1999-01-01,FR,France,83.0
 Vaccination coverage first dose,%,1999-01-01,HR,Croatia,92.0
+Vaccination coverage first dose,%,1999-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,1999-01-01,IE,Ireland,77.0
 Vaccination coverage first dose,%,1999-01-01,IS,Iceland,94.0
 Vaccination coverage first dose,%,1999-01-01,IT,Italy,70.0
@@ -24699,6 +24739,7 @@ Vaccination coverage first dose,%,1999-01-01,MT,Malta,67.0
 Vaccination coverage first dose,%,1999-01-01,NL,Netherlands,96.0
 Vaccination coverage first dose,%,1999-01-01,NO,Norway,90.0
 Vaccination coverage first dose,%,1999-01-01,PL,Poland,97.0
+Vaccination coverage first dose,%,1999-01-01,PT,Portugal,92.0
 Vaccination coverage first dose,%,1999-01-01,RO,Romania,98.0
 Vaccination coverage first dose,%,1999-01-01,SE,Sweden,89.0
 Vaccination coverage first dose,%,1999-01-01,SI,Slovenia,98.0
@@ -24709,6 +24750,7 @@ Vaccination coverage first dose,%,2000-01-01,BE,Belgium,82.0
 Vaccination coverage first dose,%,2000-01-01,BG,Bulgaria,89.0
 Vaccination coverage first dose,%,2000-01-01,CY,Cyprus,86.0
 Vaccination coverage first dose,%,2000-01-01,CZ,Czech Republic,97.0
+Vaccination coverage first dose,%,2000-01-01,DE,Germany,92.0
 Vaccination coverage first dose,%,2000-01-01,DK,Denmark,99.0
 Vaccination coverage first dose,%,2000-01-01,EE,Estonia,93.0
 Vaccination coverage first dose,%,2000-01-01,EL,Greece,89.0
@@ -24718,6 +24760,7 @@ Vaccination coverage first dose,%,2000-01-01,FR,France,84.0
 Vaccination coverage first dose,%,2000-01-01,HR,Croatia,93.0
 Vaccination coverage first dose,%,2000-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2000-01-01,IE,Ireland,79.0
+Vaccination coverage first dose,%,2000-01-01,IS,Iceland,91.0
 Vaccination coverage first dose,%,2000-01-01,IT,Italy,74.0
 Vaccination coverage first dose,%,2000-01-01,LT,Lithuania,97.0
 Vaccination coverage first dose,%,2000-01-01,LU,Luxembourg,93.0
@@ -24728,6 +24771,7 @@ Vaccination coverage first dose,%,2000-01-01,NO,Norway,88.0
 Vaccination coverage first dose,%,2000-01-01,PL,Poland,97.0
 Vaccination coverage first dose,%,2000-01-01,PT,Portugal,87.0
 Vaccination coverage first dose,%,2000-01-01,RO,Romania,98.0
+Vaccination coverage first dose,%,2000-01-01,SE,Sweden,91.0
 Vaccination coverage first dose,%,2000-01-01,SI,Slovenia,95.0
 Vaccination coverage first dose,%,2000-01-01,SK,Slovakia,98.0
 Vaccination coverage first dose,%,2000-01-01,UK,United Kingdom,88.0
@@ -24738,6 +24782,7 @@ Vaccination coverage first dose,%,2001-01-01,CY,Cyprus,86.0
 Vaccination coverage first dose,%,2001-01-01,CZ,Czech Republic,97.0
 Vaccination coverage first dose,%,2001-01-01,DE,Germany,94.0
 Vaccination coverage first dose,%,2001-01-01,DK,Denmark,94.0
+Vaccination coverage first dose,%,2001-01-01,EE,Estonia,95.0
 Vaccination coverage first dose,%,2001-01-01,EL,Greece,91.0
 Vaccination coverage first dose,%,2001-01-01,ES,Spain,96.0
 Vaccination coverage first dose,%,2001-01-01,FI,Finland,96.0
@@ -24747,6 +24792,7 @@ Vaccination coverage first dose,%,2001-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2001-01-01,IE,Ireland,73.0
 Vaccination coverage first dose,%,2001-01-01,IS,Iceland,88.0
 Vaccination coverage first dose,%,2001-01-01,IT,Italy,77.0
+Vaccination coverage first dose,%,2001-01-01,LT,Lithuania,97.0
 Vaccination coverage first dose,%,2001-01-01,LU,Luxembourg,94.0
 Vaccination coverage first dose,%,2001-01-01,LV,Latvia,98.0
 Vaccination coverage first dose,%,2001-01-01,MT,Malta,70.0
@@ -24757,6 +24803,7 @@ Vaccination coverage first dose,%,2001-01-01,PT,Portugal,90.0
 Vaccination coverage first dose,%,2001-01-01,RO,Romania,98.0
 Vaccination coverage first dose,%,2001-01-01,SE,Sweden,94.0
 Vaccination coverage first dose,%,2001-01-01,SI,Slovenia,94.0
+Vaccination coverage first dose,%,2001-01-01,SK,Slovakia,99.0
 Vaccination coverage first dose,%,2001-01-01,UK,United Kingdom,85.0
 Vaccination coverage first dose,%,2002-01-01,AT,Austria,78.0
 Vaccination coverage first dose,%,2002-01-01,BE,Belgium,82.0
@@ -24767,6 +24814,7 @@ Vaccination coverage first dose,%,2002-01-01,DE,Germany,94.0
 Vaccination coverage first dose,%,2002-01-01,DK,Denmark,95.0
 Vaccination coverage first dose,%,2002-01-01,EE,Estonia,95.0
 Vaccination coverage first dose,%,2002-01-01,EL,Greece,92.0
+Vaccination coverage first dose,%,2002-01-01,ES,Spain,97.0
 Vaccination coverage first dose,%,2002-01-01,FI,Finland,96.0
 Vaccination coverage first dose,%,2002-01-01,FR,France,86.0
 Vaccination coverage first dose,%,2002-01-01,HR,Croatia,95.0
@@ -24776,6 +24824,7 @@ Vaccination coverage first dose,%,2002-01-01,IS,Iceland,91.0
 Vaccination coverage first dose,%,2002-01-01,IT,Italy,81.0
 Vaccination coverage first dose,%,2002-01-01,LT,Lithuania,98.0
 Vaccination coverage first dose,%,2002-01-01,LU,Luxembourg,94.0
+Vaccination coverage first dose,%,2002-01-01,LV,Latvia,98.0
 Vaccination coverage first dose,%,2002-01-01,MT,Malta,65.0
 Vaccination coverage first dose,%,2002-01-01,NL,Netherlands,95.0
 Vaccination coverage first dose,%,2002-01-01,NO,Norway,87.0
@@ -24786,6 +24835,7 @@ Vaccination coverage first dose,%,2002-01-01,SE,Sweden,95.0
 Vaccination coverage first dose,%,2002-01-01,SI,Slovenia,93.0
 Vaccination coverage first dose,%,2002-01-01,SK,Slovakia,99.0
 Vaccination coverage first dose,%,2002-01-01,UK,United Kingdom,85.0
+Vaccination coverage first dose,%,2003-01-01,AT,Austria,79.0
 Vaccination coverage first dose,%,2003-01-01,BE,Belgium,82.0
 Vaccination coverage first dose,%,2003-01-01,BG,Bulgaria,96.0
 Vaccination coverage first dose,%,2003-01-01,CY,Cyprus,86.0
@@ -24805,6 +24855,7 @@ Vaccination coverage first dose,%,2003-01-01,IT,Italy,84.0
 Vaccination coverage first dose,%,2003-01-01,LT,Lithuania,98.0
 Vaccination coverage first dose,%,2003-01-01,LU,Luxembourg,95.0
 Vaccination coverage first dose,%,2003-01-01,LV,Latvia,98.0
+Vaccination coverage first dose,%,2003-01-01,MT,Malta,90.0
 Vaccination coverage first dose,%,2003-01-01,NL,Netherlands,96.0
 Vaccination coverage first dose,%,2003-01-01,NO,Norway,86.0
 Vaccination coverage first dose,%,2003-01-01,PL,Poland,97.0
@@ -24815,6 +24866,7 @@ Vaccination coverage first dose,%,2003-01-01,SI,Slovenia,94.0
 Vaccination coverage first dose,%,2003-01-01,SK,Slovakia,99.0
 Vaccination coverage first dose,%,2003-01-01,UK,United Kingdom,82.0
 Vaccination coverage first dose,%,2004-01-01,AT,Austria,74.0
+Vaccination coverage first dose,%,2004-01-01,BE,Belgium,82.0
 Vaccination coverage first dose,%,2004-01-01,BG,Bulgaria,95.0
 Vaccination coverage first dose,%,2004-01-01,CY,Cyprus,86.0
 Vaccination coverage first dose,%,2004-01-01,CZ,Czech Republic,97.0
@@ -24824,6 +24876,7 @@ Vaccination coverage first dose,%,2004-01-01,EE,Estonia,96.0
 Vaccination coverage first dose,%,2004-01-01,EL,Greece,95.0
 Vaccination coverage first dose,%,2004-01-01,ES,Spain,97.0
 Vaccination coverage first dose,%,2004-01-01,FI,Finland,97.0
+Vaccination coverage first dose,%,2004-01-01,FR,France,88.0
 Vaccination coverage first dose,%,2004-01-01,HR,Croatia,96.0
 Vaccination coverage first dose,%,2004-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2004-01-01,IE,Ireland,81.0
@@ -24834,6 +24887,7 @@ Vaccination coverage first dose,%,2004-01-01,LU,Luxembourg,95.0
 Vaccination coverage first dose,%,2004-01-01,LV,Latvia,98.0
 Vaccination coverage first dose,%,2004-01-01,MT,Malta,94.0
 Vaccination coverage first dose,%,2004-01-01,NL,Netherlands,96.0
+Vaccination coverage first dose,%,2004-01-01,NO,Norway,89.0
 Vaccination coverage first dose,%,2004-01-01,PL,Poland,97.0
 Vaccination coverage first dose,%,2004-01-01,PT,Portugal,95.0
 Vaccination coverage first dose,%,2004-01-01,RO,Romania,97.0
@@ -24844,6 +24898,7 @@ Vaccination coverage first dose,%,2004-01-01,UK,United Kingdom,81.0
 Vaccination coverage first dose,%,2005-01-01,AT,Austria,75.0
 Vaccination coverage first dose,%,2005-01-01,BE,Belgium,88.0
 Vaccination coverage first dose,%,2005-01-01,BG,Bulgaria,96.0
+Vaccination coverage first dose,%,2005-01-01,CY,Cyprus,86.0
 Vaccination coverage first dose,%,2005-01-01,CZ,Czech Republic,97.0
 Vaccination coverage first dose,%,2005-01-01,DE,Germany,96.0
 Vaccination coverage first dose,%,2005-01-01,DK,Denmark,95.0
@@ -24853,6 +24908,7 @@ Vaccination coverage first dose,%,2005-01-01,ES,Spain,97.0
 Vaccination coverage first dose,%,2005-01-01,FI,Finland,97.0
 Vaccination coverage first dose,%,2005-01-01,FR,France,87.0
 Vaccination coverage first dose,%,2005-01-01,HR,Croatia,96.0
+Vaccination coverage first dose,%,2005-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2005-01-01,IE,Ireland,84.0
 Vaccination coverage first dose,%,2005-01-01,IS,Iceland,90.0
 Vaccination coverage first dose,%,2005-01-01,IT,Italy,87.0
@@ -24863,6 +24919,7 @@ Vaccination coverage first dose,%,2005-01-01,MT,Malta,86.0
 Vaccination coverage first dose,%,2005-01-01,NL,Netherlands,95.0
 Vaccination coverage first dose,%,2005-01-01,NO,Norway,90.0
 Vaccination coverage first dose,%,2005-01-01,PL,Poland,98.0
+Vaccination coverage first dose,%,2005-01-01,PT,Portugal,93.0
 Vaccination coverage first dose,%,2005-01-01,RO,Romania,97.0
 Vaccination coverage first dose,%,2005-01-01,SE,Sweden,96.0
 Vaccination coverage first dose,%,2005-01-01,SI,Slovenia,94.0
@@ -24873,6 +24930,7 @@ Vaccination coverage first dose,%,2006-01-01,BE,Belgium,92.0
 Vaccination coverage first dose,%,2006-01-01,BG,Bulgaria,96.0
 Vaccination coverage first dose,%,2006-01-01,CY,Cyprus,87.0
 Vaccination coverage first dose,%,2006-01-01,CZ,Czech Republic,97.0
+Vaccination coverage first dose,%,2006-01-01,DE,Germany,96.0
 Vaccination coverage first dose,%,2006-01-01,DK,Denmark,90.0
 Vaccination coverage first dose,%,2006-01-01,EE,Estonia,96.0
 Vaccination coverage first dose,%,2006-01-01,EL,Greece,98.0
@@ -24882,6 +24940,7 @@ Vaccination coverage first dose,%,2006-01-01,FR,France,89.0
 Vaccination coverage first dose,%,2006-01-01,HR,Croatia,95.0
 Vaccination coverage first dose,%,2006-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2006-01-01,IE,Ireland,86.0
+Vaccination coverage first dose,%,2006-01-01,IS,Iceland,95.0
 Vaccination coverage first dose,%,2006-01-01,IT,Italy,88.0
 Vaccination coverage first dose,%,2006-01-01,LT,Lithuania,97.0
 Vaccination coverage first dose,%,2006-01-01,LU,Luxembourg,95.0
@@ -24892,6 +24951,7 @@ Vaccination coverage first dose,%,2006-01-01,NO,Norway,92.0
 Vaccination coverage first dose,%,2006-01-01,PL,Poland,99.0
 Vaccination coverage first dose,%,2006-01-01,PT,Portugal,97.0
 Vaccination coverage first dose,%,2006-01-01,RO,Romania,95.0
+Vaccination coverage first dose,%,2006-01-01,SE,Sweden,97.0
 Vaccination coverage first dose,%,2006-01-01,SI,Slovenia,96.0
 Vaccination coverage first dose,%,2006-01-01,SK,Slovakia,98.0
 Vaccination coverage first dose,%,2006-01-01,UK,United Kingdom,85.0
@@ -24902,6 +24962,7 @@ Vaccination coverage first dose,%,2007-01-01,CY,Cyprus,87.0
 Vaccination coverage first dose,%,2007-01-01,CZ,Czech Republic,98.0
 Vaccination coverage first dose,%,2007-01-01,DE,Germany,97.0
 Vaccination coverage first dose,%,2007-01-01,DK,Denmark,89.0
+Vaccination coverage first dose,%,2007-01-01,EE,Estonia,96.0
 Vaccination coverage first dose,%,2007-01-01,EL,Greece,99.0
 Vaccination coverage first dose,%,2007-01-01,ES,Spain,97.0
 Vaccination coverage first dose,%,2007-01-01,FI,Finland,98.0
@@ -24913,6 +24974,7 @@ Vaccination coverage first dose,%,2007-01-01,IS,Iceland,95.0
 Vaccination coverage first dose,%,2007-01-01,IT,Italy,90.0
 Vaccination coverage first dose,%,2007-01-01,LT,Lithuania,97.0
 Vaccination coverage first dose,%,2007-01-01,LU,Luxembourg,96.0
+Vaccination coverage first dose,%,2007-01-01,LV,Latvia,95.0
 Vaccination coverage first dose,%,2007-01-01,MT,Malta,79.0
 Vaccination coverage first dose,%,2007-01-01,NL,Netherlands,96.0
 Vaccination coverage first dose,%,2007-01-01,NO,Norway,92.0
@@ -24927,6 +24989,7 @@ Vaccination coverage first dose,%,2008-01-01,AT,Austria,83.0
 Vaccination coverage first dose,%,2008-01-01,BE,Belgium,93.0
 Vaccination coverage first dose,%,2008-01-01,BG,Bulgaria,96.0
 Vaccination coverage first dose,%,2008-01-01,CY,Cyprus,87.0
+Vaccination coverage first dose,%,2008-01-01,CZ,Czech Republic,97.0
 Vaccination coverage first dose,%,2008-01-01,DE,Germany,97.0
 Vaccination coverage first dose,%,2008-01-01,DK,Denmark,87.0
 Vaccination coverage first dose,%,2008-01-01,EE,Estonia,95.0
@@ -24940,6 +25003,7 @@ Vaccination coverage first dose,%,2008-01-01,IE,Ireland,89.0
 Vaccination coverage first dose,%,2008-01-01,IS,Iceland,96.0
 Vaccination coverage first dose,%,2008-01-01,IT,Italy,90.0
 Vaccination coverage first dose,%,2008-01-01,LT,Lithuania,97.0
+Vaccination coverage first dose,%,2008-01-01,LU,Luxembourg,96.0
 Vaccination coverage first dose,%,2008-01-01,LV,Latvia,96.0
 Vaccination coverage first dose,%,2008-01-01,MT,Malta,78.0
 Vaccination coverage first dose,%,2008-01-01,NL,Netherlands,96.0
@@ -24954,6 +25018,7 @@ Vaccination coverage first dose,%,2008-01-01,UK,United Kingdom,86.0
 Vaccination coverage first dose,%,2009-01-01,AT,Austria,76.0
 Vaccination coverage first dose,%,2009-01-01,BE,Belgium,95.0
 Vaccination coverage first dose,%,2009-01-01,BG,Bulgaria,96.0
+Vaccination coverage first dose,%,2009-01-01,CY,Cyprus,87.0
 Vaccination coverage first dose,%,2009-01-01,CZ,Czech Republic,98.0
 Vaccination coverage first dose,%,2009-01-01,DE,Germany,97.0
 Vaccination coverage first dose,%,2009-01-01,DK,Denmark,84.0
@@ -24967,6 +25032,7 @@ Vaccination coverage first dose,%,2009-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2009-01-01,IE,Ireland,90.0
 Vaccination coverage first dose,%,2009-01-01,IS,Iceland,92.0
 Vaccination coverage first dose,%,2009-01-01,IT,Italy,90.0
+Vaccination coverage first dose,%,2009-01-01,LT,Lithuania,96.0
 Vaccination coverage first dose,%,2009-01-01,LU,Luxembourg,96.0
 Vaccination coverage first dose,%,2009-01-01,LV,Latvia,92.0
 Vaccination coverage first dose,%,2009-01-01,MT,Malta,82.0
@@ -24981,6 +25047,7 @@ Vaccination coverage first dose,%,2009-01-01,SK,Slovakia,99.0
 Vaccination coverage first dose,%,2009-01-01,UK,United Kingdom,86.0
 Vaccination coverage first dose,%,2010-01-01,AT,Austria,80.0
 Vaccination coverage first dose,%,2010-01-01,BE,Belgium,95.0
+Vaccination coverage first dose,%,2010-01-01,BG,Bulgaria,97.0
 Vaccination coverage first dose,%,2010-01-01,CY,Cyprus,87.0
 Vaccination coverage first dose,%,2010-01-01,CZ,Czech Republic,98.0
 Vaccination coverage first dose,%,2010-01-01,DE,Germany,97.0
@@ -24994,6 +25061,7 @@ Vaccination coverage first dose,%,2010-01-01,HR,Croatia,96.0
 Vaccination coverage first dose,%,2010-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2010-01-01,IE,Ireland,90.0
 Vaccination coverage first dose,%,2010-01-01,IS,Iceland,93.0
+Vaccination coverage first dose,%,2010-01-01,IT,Italy,91.0
 Vaccination coverage first dose,%,2010-01-01,LT,Lithuania,96.0
 Vaccination coverage first dose,%,2010-01-01,LU,Luxembourg,96.0
 Vaccination coverage first dose,%,2010-01-01,LV,Latvia,95.0
@@ -25008,6 +25076,7 @@ Vaccination coverage first dose,%,2010-01-01,SI,Slovenia,95.0
 Vaccination coverage first dose,%,2010-01-01,SK,Slovakia,98.0
 Vaccination coverage first dose,%,2010-01-01,UK,United Kingdom,89.0
 Vaccination coverage first dose,%,2011-01-01,AT,Austria,84.0
+Vaccination coverage first dose,%,2011-01-01,BE,Belgium,95.0
 Vaccination coverage first dose,%,2011-01-01,BG,Bulgaria,95.0
 Vaccination coverage first dose,%,2011-01-01,CY,Cyprus,87.0
 Vaccination coverage first dose,%,2011-01-01,CZ,Czech Republic,98.0
@@ -25021,6 +25090,7 @@ Vaccination coverage first dose,%,2011-01-01,FR,France,89.0
 Vaccination coverage first dose,%,2011-01-01,HR,Croatia,96.0
 Vaccination coverage first dose,%,2011-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2011-01-01,IE,Ireland,92.0
+Vaccination coverage first dose,%,2011-01-01,IS,Iceland,94.0
 Vaccination coverage first dose,%,2011-01-01,IT,Italy,90.0
 Vaccination coverage first dose,%,2011-01-01,LT,Lithuania,94.0
 Vaccination coverage first dose,%,2011-01-01,LU,Luxembourg,96.0
@@ -25035,6 +25105,7 @@ Vaccination coverage first dose,%,2011-01-01,SE,Sweden,97.0
 Vaccination coverage first dose,%,2011-01-01,SI,Slovenia,96.0
 Vaccination coverage first dose,%,2011-01-01,SK,Slovakia,98.0
 Vaccination coverage first dose,%,2011-01-01,UK,United Kingdom,90.0
+Vaccination coverage first dose,%,2012-01-01,AT,Austria,88.0
 Vaccination coverage first dose,%,2012-01-01,BE,Belgium,96.0
 Vaccination coverage first dose,%,2012-01-01,BG,Bulgaria,94.0
 Vaccination coverage first dose,%,2012-01-01,CY,Cyprus,86.0
@@ -25048,6 +25119,7 @@ Vaccination coverage first dose,%,2012-01-01,FI,Finland,97.0
 Vaccination coverage first dose,%,2012-01-01,FR,France,91.0
 Vaccination coverage first dose,%,2012-01-01,HR,Croatia,95.0
 Vaccination coverage first dose,%,2012-01-01,HU,Hungary,99.0
+Vaccination coverage first dose,%,2012-01-01,IE,Ireland,92.0
 Vaccination coverage first dose,%,2012-01-01,IS,Iceland,90.0
 Vaccination coverage first dose,%,2012-01-01,IT,Italy,90.0
 Vaccination coverage first dose,%,2012-01-01,LT,Lithuania,93.0
@@ -25062,6 +25134,7 @@ Vaccination coverage first dose,%,2012-01-01,RO,Romania,94.0
 Vaccination coverage first dose,%,2012-01-01,SE,Sweden,98.0
 Vaccination coverage first dose,%,2012-01-01,SI,Slovenia,95.0
 Vaccination coverage first dose,%,2012-01-01,SK,Slovakia,99.0
+Vaccination coverage first dose,%,2012-01-01,UK,United Kingdom,92.0
 Vaccination coverage first dose,%,2013-01-01,AT,Austria,92.0
 Vaccination coverage first dose,%,2013-01-01,BE,Belgium,96.0
 Vaccination coverage first dose,%,2013-01-01,BG,Bulgaria,95.0
@@ -25076,6 +25149,7 @@ Vaccination coverage first dose,%,2013-01-01,FI,Finland,97.0
 Vaccination coverage first dose,%,2013-01-01,FR,France,90.0
 Vaccination coverage first dose,%,2013-01-01,HR,Croatia,94.0
 Vaccination coverage first dose,%,2013-01-01,HU,Hungary,99.0
+Vaccination coverage first dose,%,2013-01-01,IE,Ireland,93.0
 Vaccination coverage first dose,%,2013-01-01,IS,Iceland,91.0
 Vaccination coverage first dose,%,2013-01-01,IT,Italy,90.0
 Vaccination coverage first dose,%,2013-01-01,LT,Lithuania,93.0
@@ -25091,6 +25165,7 @@ Vaccination coverage first dose,%,2013-01-01,SE,Sweden,97.0
 Vaccination coverage first dose,%,2013-01-01,SI,Slovenia,94.0
 Vaccination coverage first dose,%,2013-01-01,SK,Slovakia,98.0
 Vaccination coverage first dose,%,2013-01-01,UK,United Kingdom,93.0
+Vaccination coverage first dose,%,2014-01-01,AT,Austria,96.0
 Vaccination coverage first dose,%,2014-01-01,BE,Belgium,96.0
 Vaccination coverage first dose,%,2014-01-01,BG,Bulgaria,93.0
 Vaccination coverage first dose,%,2014-01-01,CY,Cyprus,86.0
@@ -25105,6 +25180,7 @@ Vaccination coverage first dose,%,2014-01-01,FR,France,91.0
 Vaccination coverage first dose,%,2014-01-01,HR,Croatia,94.0
 Vaccination coverage first dose,%,2014-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2014-01-01,IE,Ireland,93.0
+Vaccination coverage first dose,%,2014-01-01,IS,Iceland,90.0
 Vaccination coverage first dose,%,2014-01-01,IT,Italy,87.0
 Vaccination coverage first dose,%,2014-01-01,LT,Lithuania,93.0
 Vaccination coverage first dose,%,2014-01-01,LU,Luxembourg,99.0
@@ -25120,6 +25196,7 @@ Vaccination coverage first dose,%,2014-01-01,SI,Slovenia,94.0
 Vaccination coverage first dose,%,2014-01-01,SK,Slovakia,97.0
 Vaccination coverage first dose,%,2014-01-01,UK,United Kingdom,93.0
 Vaccination coverage first dose,%,2015-01-01,AT,Austria,96.0
+Vaccination coverage first dose,%,2015-01-01,BE,Belgium,96.0
 Vaccination coverage first dose,%,2015-01-01,BG,Bulgaria,92.0
 Vaccination coverage first dose,%,2015-01-01,CY,Cyprus,90.0
 Vaccination coverage first dose,%,2015-01-01,CZ,Czech Republic,99.0
@@ -25134,6 +25211,7 @@ Vaccination coverage first dose,%,2015-01-01,HR,Croatia,93.0
 Vaccination coverage first dose,%,2015-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2015-01-01,IE,Ireland,93.0
 Vaccination coverage first dose,%,2015-01-01,IS,Iceland,93.0
+Vaccination coverage first dose,%,2015-01-01,IT,Italy,85.0
 Vaccination coverage first dose,%,2015-01-01,LT,Lithuania,94.0
 Vaccination coverage first dose,%,2015-01-01,LU,Luxembourg,99.0
 Vaccination coverage first dose,%,2015-01-01,LV,Latvia,96.0
@@ -25149,6 +25227,7 @@ Vaccination coverage first dose,%,2015-01-01,SK,Slovakia,95.0
 Vaccination coverage first dose,%,2015-01-01,UK,United Kingdom,93.0
 Vaccination coverage first dose,%,2016-01-01,AT,Austria,95.0
 Vaccination coverage first dose,%,2016-01-01,BE,Belgium,96.0
+Vaccination coverage first dose,%,2016-01-01,BG,Bulgaria,92.0
 Vaccination coverage first dose,%,2016-01-01,CY,Cyprus,90.0
 Vaccination coverage first dose,%,2016-01-01,CZ,Czech Republic,98.0
 Vaccination coverage first dose,%,2016-01-01,DE,Germany,97.0
@@ -25163,6 +25242,7 @@ Vaccination coverage first dose,%,2016-01-01,HU,Hungary,99.0
 Vaccination coverage first dose,%,2016-01-01,IE,Ireland,92.0
 Vaccination coverage first dose,%,2016-01-01,IS,Iceland,91.0
 Vaccination coverage first dose,%,2016-01-01,IT,Italy,87.0
+Vaccination coverage first dose,%,2016-01-01,LT,Lithuania,94.0
 Vaccination coverage first dose,%,2016-01-01,LU,Luxembourg,99.0
 Vaccination coverage first dose,%,2016-01-01,LV,Latvia,93.0
 Vaccination coverage first dose,%,2016-01-01,MT,Malta,93.0
@@ -25178,6 +25258,7 @@ Vaccination coverage first dose,%,2016-01-01,UK,United Kingdom,92.0
 Vaccination coverage first dose,%,2017-01-01,AT,Austria,96.0
 Vaccination coverage first dose,%,2017-01-01,BE,Belgium,96.0
 Vaccination coverage first dose,%,2017-01-01,BG,Bulgaria,94.0
+Vaccination coverage first dose,%,2017-01-01,CY,Cyprus,90.0
 Vaccination coverage first dose,%,2017-01-01,CZ,Czech Republic,97.0
 Vaccination coverage first dose,%,2017-01-01,DE,Germany,97.0
 Vaccination coverage first dose,%,2017-01-01,DK,Denmark,97.0
@@ -25192,6 +25273,7 @@ Vaccination coverage first dose,%,2017-01-01,IE,Ireland,92.0
 Vaccination coverage first dose,%,2017-01-01,IS,Iceland,92.0
 Vaccination coverage first dose,%,2017-01-01,IT,Italy,92.0
 Vaccination coverage first dose,%,2017-01-01,LT,Lithuania,94.0
+Vaccination coverage first dose,%,2017-01-01,LU,Luxembourg,99.0
 Vaccination coverage first dose,%,2017-01-01,LV,Latvia,96.0
 Vaccination coverage first dose,%,2017-01-01,MT,Malta,91.0
 Vaccination coverage first dose,%,2017-01-01,NL,Netherlands,93.0
@@ -25207,6 +25289,7 @@ Vaccination coverage first dose,%,2018-01-01,AT,Austria,94.0
 Vaccination coverage first dose,%,2018-01-01,BE,Belgium,96.0
 Vaccination coverage first dose,%,2018-01-01,BG,Bulgaria,93.0
 Vaccination coverage first dose,%,2018-01-01,CY,Cyprus,90.0
+Vaccination coverage first dose,%,2018-01-01,CZ,Czech Republic,96.0
 Vaccination coverage first dose,%,2018-01-01,DE,Germany,97.0
 Vaccination coverage first dose,%,2018-01-01,DK,Denmark,95.0
 Vaccination coverage first dose,%,2018-01-01,EE,Estonia,87.0
@@ -25221,6 +25304,7 @@ Vaccination coverage first dose,%,2018-01-01,IS,Iceland,93.0
 Vaccination coverage first dose,%,2018-01-01,IT,Italy,93.0
 Vaccination coverage first dose,%,2018-01-01,LT,Lithuania,92.0
 Vaccination coverage first dose,%,2018-01-01,LU,Luxembourg,99.0
+Vaccination coverage first dose,%,2018-01-01,LV,Latvia,98.0
 Vaccination coverage first dose,%,2018-01-01,MT,Malta,96.0
 Vaccination coverage first dose,%,2018-01-01,NL,Netherlands,93.0
 Vaccination coverage first dose,%,2018-01-01,NO,Norway,96.0
@@ -25235,6 +25319,7 @@ Vaccination coverage second dose,%,1999-01-01,BG,Bulgaria,97.0
 Vaccination coverage second dose,%,1999-01-01,NL,Netherlands,96.0
 Vaccination coverage second dose,%,1999-01-01,PL,Poland,96.0
 Vaccination coverage second dose,%,1999-01-01,RO,Romania,96.0
+Vaccination coverage second dose,%,1999-01-01,SI,Slovenia,98.0
 Vaccination coverage second dose,%,2000-01-01,AT,Austria,35.0
 Vaccination coverage second dose,%,2000-01-01,BG,Bulgaria,83.0
 Vaccination coverage second dose,%,2000-01-01,CZ,Czech Republic,98.0
@@ -25250,6 +25335,7 @@ Vaccination coverage second dose,%,2000-01-01,RO,Romania,96.0
 Vaccination coverage second dose,%,2000-01-01,SE,Sweden,94.0
 Vaccination coverage second dose,%,2000-01-01,SI,Slovenia,98.0
 Vaccination coverage second dose,%,2000-01-01,SK,Slovakia,99.0
+Vaccination coverage second dose,%,2000-01-01,UK,United Kingdom,76.0
 Vaccination coverage second dose,%,2001-01-01,AT,Austria,34.0
 Vaccination coverage second dose,%,2001-01-01,BG,Bulgaria,85.0
 Vaccination coverage second dose,%,2001-01-01,CZ,Czech Republic,98.0
@@ -25265,6 +25351,7 @@ Vaccination coverage second dose,%,2001-01-01,PL,Poland,96.0
 Vaccination coverage second dose,%,2001-01-01,PT,Portugal,56.0
 Vaccination coverage second dose,%,2001-01-01,RO,Romania,97.0
 Vaccination coverage second dose,%,2001-01-01,SE,Sweden,94.0
+Vaccination coverage second dose,%,2001-01-01,SI,Slovenia,98.0
 Vaccination coverage second dose,%,2001-01-01,SK,Slovakia,99.0
 Vaccination coverage second dose,%,2001-01-01,UK,United Kingdom,74.0
 Vaccination coverage second dose,%,2002-01-01,AT,Austria,39.0
@@ -25280,6 +25367,7 @@ Vaccination coverage second dose,%,2002-01-01,LV,Latvia,96.0
 Vaccination coverage second dose,%,2002-01-01,NL,Netherlands,96.0
 Vaccination coverage second dose,%,2002-01-01,NO,Norway,90.0
 Vaccination coverage second dose,%,2002-01-01,PL,Poland,97.0
+Vaccination coverage second dose,%,2002-01-01,PT,Portugal,64.0
 Vaccination coverage second dose,%,2002-01-01,RO,Romania,97.0
 Vaccination coverage second dose,%,2002-01-01,SE,Sweden,94.0
 Vaccination coverage second dose,%,2002-01-01,SI,Slovenia,98.0
@@ -25295,6 +25383,7 @@ Vaccination coverage second dose,%,2003-01-01,HR,Croatia,98.0
 Vaccination coverage second dose,%,2003-01-01,HU,Hungary,99.0
 Vaccination coverage second dose,%,2003-01-01,IS,Iceland,92.0
 Vaccination coverage second dose,%,2003-01-01,LT,Lithuania,93.0
+Vaccination coverage second dose,%,2003-01-01,LV,Latvia,97.0
 Vaccination coverage second dose,%,2003-01-01,MT,Malta,2.0
 Vaccination coverage second dose,%,2003-01-01,NL,Netherlands,98.0
 Vaccination coverage second dose,%,2003-01-01,NO,Norway,89.0
@@ -25311,6 +25400,7 @@ Vaccination coverage second dose,%,2004-01-01,CZ,Czech Republic,98.0
 Vaccination coverage second dose,%,2004-01-01,DE,Germany,89.0
 Vaccination coverage second dose,%,2004-01-01,DK,Denmark,88.0
 Vaccination coverage second dose,%,2004-01-01,EE,Estonia,97.0
+Vaccination coverage second dose,%,2004-01-01,ES,Spain,91.0
 Vaccination coverage second dose,%,2004-01-01,HR,Croatia,98.0
 Vaccination coverage second dose,%,2004-01-01,HU,Hungary,99.0
 Vaccination coverage second dose,%,2004-01-01,IS,Iceland,89.0
@@ -25326,6 +25416,7 @@ Vaccination coverage second dose,%,2004-01-01,SE,Sweden,95.0
 Vaccination coverage second dose,%,2004-01-01,SI,Slovenia,99.0
 Vaccination coverage second dose,%,2004-01-01,SK,Slovakia,98.0
 Vaccination coverage second dose,%,2004-01-01,UK,United Kingdom,76.0
+Vaccination coverage second dose,%,2005-01-01,AT,Austria,54.0
 Vaccination coverage second dose,%,2005-01-01,BG,Bulgaria,92.0
 Vaccination coverage second dose,%,2005-01-01,CZ,Czech Republic,98.0
 Vaccination coverage second dose,%,2005-01-01,DE,Germany,91.0
@@ -25341,6 +25432,7 @@ Vaccination coverage second dose,%,2005-01-01,MT,Malta,60.0
 Vaccination coverage second dose,%,2005-01-01,NL,Netherlands,93.0
 Vaccination coverage second dose,%,2005-01-01,NO,Norway,91.0
 Vaccination coverage second dose,%,2005-01-01,PL,Poland,90.0
+Vaccination coverage second dose,%,2005-01-01,PT,Portugal,87.0
 Vaccination coverage second dose,%,2005-01-01,RO,Romania,96.0
 Vaccination coverage second dose,%,2005-01-01,SE,Sweden,95.0
 Vaccination coverage second dose,%,2005-01-01,SI,Slovenia,99.0
@@ -25356,6 +25448,7 @@ Vaccination coverage second dose,%,2006-01-01,EE,Estonia,98.0
 Vaccination coverage second dose,%,2006-01-01,ES,Spain,94.0
 Vaccination coverage second dose,%,2006-01-01,HR,Croatia,98.0
 Vaccination coverage second dose,%,2006-01-01,HU,Hungary,99.0
+Vaccination coverage second dose,%,2006-01-01,IS,Iceland,93.0
 Vaccination coverage second dose,%,2006-01-01,LT,Lithuania,94.0
 Vaccination coverage second dose,%,2006-01-01,LV,Latvia,99.0
 Vaccination coverage second dose,%,2006-01-01,MT,Malta,86.0
@@ -25372,6 +25465,7 @@ Vaccination coverage second dose,%,2007-01-01,AT,Austria,56.0
 Vaccination coverage second dose,%,2007-01-01,BE,Belgium,78.0
 Vaccination coverage second dose,%,2007-01-01,BG,Bulgaria,94.0
 Vaccination coverage second dose,%,2007-01-01,CY,Cyprus,93.0
+Vaccination coverage second dose,%,2007-01-01,CZ,Czech Republic,98.0
 Vaccination coverage second dose,%,2007-01-01,DE,Germany,92.0
 Vaccination coverage second dose,%,2007-01-01,DK,Denmark,88.0
 Vaccination coverage second dose,%,2007-01-01,EE,Estonia,96.0
@@ -25387,6 +25481,7 @@ Vaccination coverage second dose,%,2007-01-01,NL,Netherlands,92.0
 Vaccination coverage second dose,%,2007-01-01,NO,Norway,93.0
 Vaccination coverage second dose,%,2007-01-01,PL,Poland,98.0
 Vaccination coverage second dose,%,2007-01-01,PT,Portugal,95.0
+Vaccination coverage second dose,%,2007-01-01,RO,Romania,96.0
 Vaccination coverage second dose,%,2007-01-01,SE,Sweden,95.0
 Vaccination coverage second dose,%,2007-01-01,SI,Slovenia,98.0
 Vaccination coverage second dose,%,2007-01-01,SK,Slovakia,98.0
@@ -25402,6 +25497,7 @@ Vaccination coverage second dose,%,2008-01-01,EE,Estonia,97.0
 Vaccination coverage second dose,%,2008-01-01,EL,Greece,77.0
 Vaccination coverage second dose,%,2008-01-01,ES,Spain,94.0
 Vaccination coverage second dose,%,2008-01-01,HR,Croatia,98.0
+Vaccination coverage second dose,%,2008-01-01,HU,Hungary,99.0
 Vaccination coverage second dose,%,2008-01-01,IS,Iceland,94.0
 Vaccination coverage second dose,%,2008-01-01,LT,Lithuania,96.0
 Vaccination coverage second dose,%,2008-01-01,LV,Latvia,94.0
@@ -25418,6 +25514,7 @@ Vaccination coverage second dose,%,2008-01-01,UK,United Kingdom,75.0
 Vaccination coverage second dose,%,2009-01-01,AT,Austria,64.0
 Vaccination coverage second dose,%,2009-01-01,BE,Belgium,83.0
 Vaccination coverage second dose,%,2009-01-01,BG,Bulgaria,93.0
+Vaccination coverage second dose,%,2009-01-01,CY,Cyprus,88.0
 Vaccination coverage second dose,%,2009-01-01,CZ,Czech Republic,98.0
 Vaccination coverage second dose,%,2009-01-01,DE,Germany,93.0
 Vaccination coverage second dose,%,2009-01-01,DK,Denmark,85.0
@@ -25434,6 +25531,7 @@ Vaccination coverage second dose,%,2009-01-01,NL,Netherlands,93.0
 Vaccination coverage second dose,%,2009-01-01,NO,Norway,96.0
 Vaccination coverage second dose,%,2009-01-01,PL,Poland,95.0
 Vaccination coverage second dose,%,2009-01-01,PT,Portugal,95.0
+Vaccination coverage second dose,%,2009-01-01,RO,Romania,94.0
 Vaccination coverage second dose,%,2009-01-01,SE,Sweden,95.0
 Vaccination coverage second dose,%,2009-01-01,SI,Slovenia,98.0
 Vaccination coverage second dose,%,2009-01-01,SK,Slovakia,99.0
@@ -25450,6 +25548,7 @@ Vaccination coverage second dose,%,2010-01-01,EL,Greece,77.0
 Vaccination coverage second dose,%,2010-01-01,ES,Spain,92.0
 Vaccination coverage second dose,%,2010-01-01,FR,France,61.0
 Vaccination coverage second dose,%,2010-01-01,HR,Croatia,98.0
+Vaccination coverage second dose,%,2010-01-01,HU,Hungary,99.0
 Vaccination coverage second dose,%,2010-01-01,IS,Iceland,92.0
 Vaccination coverage second dose,%,2010-01-01,LT,Lithuania,95.0
 Vaccination coverage second dose,%,2010-01-01,LV,Latvia,93.0
@@ -25467,6 +25566,7 @@ Vaccination coverage second dose,%,2011-01-01,AT,Austria,73.0
 Vaccination coverage second dose,%,2011-01-01,BE,Belgium,83.0
 Vaccination coverage second dose,%,2011-01-01,BG,Bulgaria,94.0
 Vaccination coverage second dose,%,2011-01-01,CY,Cyprus,88.0
+Vaccination coverage second dose,%,2011-01-01,CZ,Czech Republic,98.0
 Vaccination coverage second dose,%,2011-01-01,DE,Germany,93.0
 Vaccination coverage second dose,%,2011-01-01,DK,Denmark,86.0
 Vaccination coverage second dose,%,2011-01-01,EE,Estonia,95.0
@@ -25483,6 +25583,7 @@ Vaccination coverage second dose,%,2011-01-01,NL,Netherlands,93.0
 Vaccination coverage second dose,%,2011-01-01,NO,Norway,94.0
 Vaccination coverage second dose,%,2011-01-01,PL,Poland,95.0
 Vaccination coverage second dose,%,2011-01-01,PT,Portugal,96.0
+Vaccination coverage second dose,%,2011-01-01,RO,Romania,91.0
 Vaccination coverage second dose,%,2011-01-01,SE,Sweden,95.0
 Vaccination coverage second dose,%,2011-01-01,SI,Slovenia,96.0
 Vaccination coverage second dose,%,2011-01-01,SK,Slovakia,99.0
@@ -25499,6 +25600,7 @@ Vaccination coverage second dose,%,2012-01-01,EL,Greece,83.0
 Vaccination coverage second dose,%,2012-01-01,ES,Spain,90.0
 Vaccination coverage second dose,%,2012-01-01,FR,France,72.0
 Vaccination coverage second dose,%,2012-01-01,HR,Croatia,97.0
+Vaccination coverage second dose,%,2012-01-01,HU,Hungary,99.0
 Vaccination coverage second dose,%,2012-01-01,IS,Iceland,97.0
 Vaccination coverage second dose,%,2012-01-01,LT,Lithuania,93.0
 Vaccination coverage second dose,%,2012-01-01,LU,Luxembourg,86.0
@@ -25516,6 +25618,7 @@ Vaccination coverage second dose,%,2012-01-01,UK,United Kingdom,87.0
 Vaccination coverage second dose,%,2013-01-01,AT,Austria,82.0
 Vaccination coverage second dose,%,2013-01-01,BE,Belgium,85.0
 Vaccination coverage second dose,%,2013-01-01,BG,Bulgaria,94.0
+Vaccination coverage second dose,%,2013-01-01,CY,Cyprus,88.0
 Vaccination coverage second dose,%,2013-01-01,CZ,Czech Republic,99.0
 Vaccination coverage second dose,%,2013-01-01,DE,Germany,93.0
 Vaccination coverage second dose,%,2013-01-01,DK,Denmark,86.0
@@ -25532,6 +25635,7 @@ Vaccination coverage second dose,%,2013-01-01,LU,Luxembourg,86.0
 Vaccination coverage second dose,%,2013-01-01,LV,Latvia,92.0
 Vaccination coverage second dose,%,2013-01-01,MT,Malta,88.0
 Vaccination coverage second dose,%,2013-01-01,NL,Netherlands,92.0
+Vaccination coverage second dose,%,2013-01-01,NO,Norway,91.0
 Vaccination coverage second dose,%,2013-01-01,PL,Poland,93.0
 Vaccination coverage second dose,%,2013-01-01,PT,Portugal,96.0
 Vaccination coverage second dose,%,2013-01-01,RO,Romania,88.0
@@ -25566,6 +25670,7 @@ Vaccination coverage second dose,%,2014-01-01,RO,Romania,84.0
 Vaccination coverage second dose,%,2014-01-01,SE,Sweden,95.0
 Vaccination coverage second dose,%,2014-01-01,SI,Slovenia,94.0
 Vaccination coverage second dose,%,2014-01-01,SK,Slovakia,98.0
+Vaccination coverage second dose,%,2014-01-01,UK,United Kingdom,89.0
 Vaccination coverage second dose,%,2015-01-01,AT,Austria,88.0
 Vaccination coverage second dose,%,2015-01-01,BE,Belgium,85.0
 Vaccination coverage second dose,%,2015-01-01,BG,Bulgaria,87.0
@@ -25582,6 +25687,7 @@ Vaccination coverage second dose,%,2015-01-01,HU,Hungary,99.0
 Vaccination coverage second dose,%,2015-01-01,IS,Iceland,94.0
 Vaccination coverage second dose,%,2015-01-01,IT,Italy,83.0
 Vaccination coverage second dose,%,2015-01-01,LT,Lithuania,92.0
+Vaccination coverage second dose,%,2015-01-01,LU,Luxembourg,86.0
 Vaccination coverage second dose,%,2015-01-01,LV,Latvia,92.0
 Vaccination coverage second dose,%,2015-01-01,MT,Malta,91.0
 Vaccination coverage second dose,%,2015-01-01,NL,Netherlands,92.0
@@ -25599,6 +25705,7 @@ Vaccination coverage second dose,%,2016-01-01,BG,Bulgaria,88.0
 Vaccination coverage second dose,%,2016-01-01,CY,Cyprus,88.0
 Vaccination coverage second dose,%,2016-01-01,CZ,Czech Republic,93.0
 Vaccination coverage second dose,%,2016-01-01,DE,Germany,93.0
+Vaccination coverage second dose,%,2016-01-01,DK,Denmark,85.0
 Vaccination coverage second dose,%,2016-01-01,EE,Estonia,92.0
 Vaccination coverage second dose,%,2016-01-01,EL,Greece,83.0
 Vaccination coverage second dose,%,2016-01-01,ES,Spain,95.0
@@ -25615,6 +25722,7 @@ Vaccination coverage second dose,%,2016-01-01,MT,Malta,86.0
 Vaccination coverage second dose,%,2016-01-01,NL,Netherlands,91.0
 Vaccination coverage second dose,%,2016-01-01,NO,Norway,91.0
 Vaccination coverage second dose,%,2016-01-01,PL,Poland,93.0
+Vaccination coverage second dose,%,2016-01-01,PT,Portugal,95.0
 Vaccination coverage second dose,%,2016-01-01,RO,Romania,76.0
 Vaccination coverage second dose,%,2016-01-01,SE,Sweden,95.0
 Vaccination coverage second dose,%,2016-01-01,SI,Slovenia,93.0
@@ -25634,6 +25742,7 @@ Vaccination coverage second dose,%,2017-01-01,FI,Finland,92.0
 Vaccination coverage second dose,%,2017-01-01,FR,France,80.0
 Vaccination coverage second dose,%,2017-01-01,HR,Croatia,95.0
 Vaccination coverage second dose,%,2017-01-01,HU,Hungary,99.0
+Vaccination coverage second dose,%,2017-01-01,IS,Iceland,95.0
 Vaccination coverage second dose,%,2017-01-01,IT,Italy,86.0
 Vaccination coverage second dose,%,2017-01-01,LT,Lithuania,92.0
 Vaccination coverage second dose,%,2017-01-01,LU,Luxembourg,86.0
@@ -25661,6 +25770,7 @@ Vaccination coverage second dose,%,2018-01-01,ES,Spain,94.0
 Vaccination coverage second dose,%,2018-01-01,FI,Finland,93.0
 Vaccination coverage second dose,%,2018-01-01,FR,France,80.0
 Vaccination coverage second dose,%,2018-01-01,HR,Croatia,95.0
+Vaccination coverage second dose,%,2018-01-01,HU,Hungary,99.0
 Vaccination coverage second dose,%,2018-01-01,IS,Iceland,95.0
 Vaccination coverage second dose,%,2018-01-01,IT,Italy,89.0
 Vaccination coverage second dose,%,2018-01-01,LT,Lithuania,92.0
