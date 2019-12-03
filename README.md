@@ -15,82 +15,27 @@ _Author: Preeya Sawadmanod_
 
 ## Problem Statement 
 
-Introduction: 
+The European Centre for Disease Prevention and Control (ECDC) was established in 2005. It is an EU agency aimed at strengthening Europe's defenses against infectious diseases. The core functions cover a wide spectrum of activities such as surveillance, epidemic intelligence, public health training, international relations, health communication, and etc. One interesting function is the vaccine-preventable diseases such as Measles and Rubella. 
 
-- Measles outbreak 
+Measles is an acute, highly contagious viral disease capable of causing epidemics. Infectivity is close to 100% in susceptible individuals and in the pre-vaccine era measles would affect nearly every individual during childhood. Immunization has dramatically reduced the incidence of measles in Europe but despite overall high immunization coverage, measles continues to cause frequent outbreaks. Globally, measles remains a leading cause of childhood deaths and an estimated 160,000 children die each year from complications of the disease. 
 
-- Where did get the data? Adding website 
+By looking at historical surveillance data in the European countries, can we build a time series model and predict when the next Measles Outbreaks would most likely occur? The objective is to detect Outbreaks earlier and aim to ensure timely responses to take appropriate public health measures. It is important detect outbreaks early on, especially since measles is a vaccine-preventable disease and childhood deaths can often be prevented. The goal of this project to develop a predictive model to forecast Measles Outbreaks and in like every time series models, we can use mean squared error to evaluate our model.
 
-
-- Problem Statement? 
-Analyze and determine the spread of epidemic diseases such as Measles in European Countries. Building a time series model that could predict when the next outbreak of epidemic would most likely be. 
-
-
-- Why is it important 
-ECDC's Mission: 
-The European Centre for Disease Prevention and Control (ECDC) was established in 2005. It is an EU agency aimed at strengthening Europe's defences against infectious diseases. According to Article 3 of the Founding Regulation, ECDC's mission is to identify, assess and communicate current and emerging threats to human health posed by infectious diseases. In order to achieve this mission, ECDC works in partnership with national health protection bodies across Europe to strengthen and develop continent-wide disease surveillance and early warning systems. By working with experts throughout Europe, ECDC pools Europe's health knowledge to develop authoritative scientific opinions about the risks posed by current and emerging infectious diseases.
-
-About ECDC
-ECDC is an EU agency aimed at strengthening Europe's defences against infectious diseases. The core functions cover a wide spectrum of activities: surveillance, epidemic intelligence, response, scientific advice, microbiology, preparedness, public health training, international relations, health communication, and the scientific journal Eurosurveillance. ECDC disease programmes cover antimicrobial resistance and healthcare-associated infections; emerging and vector-borne diseases; food- and waterborne diseases and zoonoses; HIV, sexually transmitted infections and viral hepatitis; influenza and other respiratory viruses; tuberculosis; and vaccine-preventable diseases. In 2019, ECDC continues to contribute to health security, giving particular attention to the following areas:
-
-- Tackle antimicrobial resistance
-- Improve vaccine coverage in the EU
-- Support the European Commission and the Member States in addressing the Sustainable Development Goals in the area of HIV, TB and hepatitis
-- Further support the European Commission and the Member States in strengthening the preparedness for cross-border health threats
-- Focus on strategic partnerships to create synergy and avoid duplication of work
-- Further enhance ECDC’s operational performance and monitoring. 
-
-
-* Is it clear what the goal of the project is?
-* What type of model will be developed?
-* How will success be evaluated?
-* Is the scope of the project appropriate?
-* Is it clear who cares about this or why this is important to investigate?
-* Does the student consider the audience and the primary and secondary stakeholders?
 
 ## Executive Summary 
 
 The ECDC publishes a monthly surveillance report on measles and rubella data submitted by the 30 European Union/European Economic Area (EU/EEA) countries in the ECDC Surveillance Atlas of Infectious Diseases. The routine disease data are submitted on a monthly basis by 30 EU/EEA countries and the data for this project was collected through the Surveillance Atlas of Infectious Diseases through the following [link](https://www.ecdc.europa.eu/en/measles/surveillance-and-disease-data/atlas). 
 
-After obtaining the [CSV files](../data), the data was cleaned by dropping 
+After obtaining the [CSV files](https://github.com/Preeya0225/capstone_project/tree/master/data), the data was cleaned by checking for duplicates, missing values and different data types and be found in this [Notebook](../code/1_data_cleaning.ipynb). After the cleaning process, the data was then saved into a new CSV file.
 
-In Data cleaning 
+In [Exploratory Data Analysis Notebook](../code/2_eda.ipynb) the Measles Outbreaks data was analyzed by looking into each specific country of the 30 EU/EEA countries. During EDA shown in the plot below, Measles Outbreaks in Germany occurred most frequently from 2000 - 2019 and seemed to be the most suited country for predicting Measles Outbreaks over time. Selecting Germany as our target country for predictions to further continue to our next step, Modeling.
 
-In this notebook, we are going to load in our datasets and clean it. The initial step is to look into each datasets and combine them together in order to accelerate the cleaning process. The cleaning process in this notebook consists of the followings steps:
+![Germany Outbreaks](../images/eda/outbreaks_Germany.jpeg)
 
-Renaming columns as lowercases in names is easier to further process
-Dropping rows/columns such as duplicates or uninformative columns
-Checking for missing values and impute missing values if necessary
-Checking for different data types
-After the cleaning process, the data is going to be safe into a new CSV file.
+During [Modeling](../code/3_modeling.ipynb) the data was preprocessed and then used to predict Outbreaks in Germany with an ARIMA and SARIMAX time series models. 
+The SARIMAX, also known as Seasonal Autoregressive Integrated Moving Average with eXogenous regressors model, resulted in approx. 3000 Mean Squared Error, which was the best model with the minimum Mean Squared Errors compared to our other models. 
 
-
-In EDA 
-
-
-<!-- Data Cleaning and EDA
-
-Are missing values imputed/handled appropriately?
-Are distributions examined and described?
-Are outliers identified and addressed?
-Are appropriate summary statistics provided?
-Are steps taken during data cleaning and EDA framed appropriately?
-Does the student address whether or not they are likely to be able to answer their problem statement with the provided data given what they've discovered during EDA?
- -->
-
-
-In Modeling 
-
-
-
-<!-- Preprocessing and Modeling
-
-Is text data successfully converted to a matrix representation?
-Are methods such as stop words, stemming, and lemmatization explored?
-Does the student properly split and/or sample the data for validation/training purposes?
-Does the student test and evaluate a variety of models to identify a production algorithm (AT MINIMUM: Bayes and one other model)?
-Does the student defend their choice of production model relevant to the data at hand and the problem?
-Does the student explain how the model works and evaluate its performance successes/downfalls? -->
+> CONCLUSION
 
 ## Datasets 
 
@@ -107,6 +52,10 @@ Does the student explain how the model works and evaluate its performance succes
 ## Conclusion 
 
 ## Next Steps 
+
+
+<!-- ECDC's Mission: 
+ According to Article 3 of the Founding Regulation, ECDC's mission is to identify, assess and communicate current and emerging threats to human health posed by infectious diseases. In order to achieve this mission, ECDC works in partnership with national health protection bodies across Europe to strengthen and develop continent-wide disease surveillance and early warning systems. By working with experts throughout Europe, ECDC pools Europe's health knowledge to develop authoritative scientific opinions about the risks posed by current and emerging infectious diseases. -->
 
 
 <!-- Evaluation and Conceptual Understanding
