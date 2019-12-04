@@ -9,8 +9,9 @@ _Author: Preeya Sawadmanod_
 * [Executive Summary](#Executive-Summary)
 * [Datasets](#Datasets)
 * [Modeling](#Modeling)
-* [Evaluation](#Evaluation)
+    - [Evaluation of Model](#Evaluation-of-Model) 
 * [Conclusion](#Conclusion)
+    - [Limitations](#Limitations) 
 * [Next Steps](#Next-Steps)
 
 ## Problem Statement 
@@ -19,23 +20,23 @@ The European Centre for Disease Prevention and Control (ECDC) was established in
 
 Measles is an acute, highly contagious viral disease capable of causing epidemics. Infectivity is close to 100% in susceptible individuals and in the pre-vaccine era measles would affect nearly every individual during childhood. Immunization has dramatically reduced the incidence of measles in Europe but despite overall high immunization coverage, measles continues to cause frequent outbreaks. Globally, measles remains a leading cause of childhood deaths and an estimated 160,000 children die each year from complications of the disease. 
 
-By looking at historical surveillance data in the European countries, can we build a time series model and predict when the next Measles Outbreaks would most likely occur? The objective is to detect Outbreaks earlier and aim to ensure timely responses to take appropriate public health measures. It is important detect outbreaks early on, especially since measles is a vaccine-preventable disease and childhood deaths can often be prevented. The goal of this project to develop a predictive model to forecast Measles Outbreaks and in like every time series models, we can use mean squared error to evaluate our model.
+By looking at historical surveillance data in the European countries, can we build a time series model and predict when the next Measles outbreaks would most likely occur? The objective is to detect outbreaks earlier and aim to ensure timely responses to take appropriate public health measures. It is important detect outbreaks early on, especially since measles is a vaccine-preventable disease and childhood deaths can often be prevented. The goal of this project to develop a predictive model to forecast Measles outbreaks and in like every time series models, we can use mean squared error to evaluate our model.
 
 
 ## Executive Summary 
 
 The ECDC publishes a monthly surveillance report on measles and rubella data submitted by the 30 European Union/European Economic Area (EU/EEA) countries in the ECDC Surveillance Atlas of Infectious Diseases. The routine disease data are submitted on a monthly basis by 30 EU/EEA countries and the data for this project was collected through the Surveillance Atlas of Infectious Diseases through the following [link](https://www.ecdc.europa.eu/en/measles/surveillance-and-disease-data/atlas). 
 
-After obtaining the [CSV files](https://github.com/Preeya0225/capstone_project/tree/master/data), the data was cleaned by checking for duplicates, missing values and different data types and be found in this [Notebook](./code/1_data_cleaning.ipynb). After the cleaning process, the data was then saved into a new CSV file.
+After obtaining the [CSV files](https://github.com/Preeya0225/capstone_project/tree/master/data), the data was cleaned by checking for duplicates, missing values and different data types. The cleaning process can be found in this [Notebook](./code/1_data_cleaning.ipynb). After the cleaning process, the data was then saved into a new CSV file.
 
-In [Exploratory Data Analysis Notebook](./code/2_eda.ipynb) the Measles Outbreaks data was analyzed by looking into each specific country of the 30 EU/EEA countries. During EDA shown in the plot below, Measles Outbreaks in Germany occurred most frequently from 2000 - 2019 and seemed to be the most suited country for predicting Measles Outbreaks over time. Selecting Germany as our target country for predictions to further continue to our next step, Modeling.
+In [Exploratory Data Analysis Notebook](./code/2_eda.ipynb) the Measles outbreaks data was analyzed by looking into each specific country of the 30 EU/EEA countries. During EDA shown in the plot below, Measles outbreaks in Germany occurred most frequently from 2000 - 2019 and resulted in the most suited country for predicting Measles outbreaks over time. Selecting Germany as our target country for predictions to further continue to our next step, Modeling.
 
-![Germany Outbreaks](./images/eda/outbreaks_Germany.jpeg)
+![Germany outbreaks](./images/eda/outbreaks_Germany.jpeg)
 
-During [Modeling](./code/3_modeling.ipynb) the data was preprocessed and then used to predict Outbreaks in Germany with an ARIMA and SARIMAX time series models. 
-The SARIMAX, also known as Seasonal Autoregressive Integrated Moving Average with eXogenous regressors model, resulted in approx. 3000 Mean Squared Error, which was the best model with the minimum Mean Squared Errors compared to our other models. 
+During [Modeling](./code/3_modeling.ipynb) the data was preprocessed and then used to predict outbreaks in Germany with an ARIMA and a SARIMAX model. The SARIMAX model, also known as Seasonal Autoregressive Integrated Moving Average with eXogenous regressors model, resulted in approx. XXXX Mean Squared Error, which was the best model with the minimum Mean Squared Errors compared to our other models. 
 
-> CONCLUSION
+In conclusion, utilizing our vaccination records and historical data from measles cases, we were able to obtain a model predicting Measles Outbreaks in Germany. 
+
 
 ## Datasets 
 
@@ -47,11 +48,37 @@ The SARIMAX, also known as Seasonal Autoregressive Integrated Moving Average wit
 
 ## Modeling 
 
-## Evaluation 
+In our time series model, the SARIMAX (1,0,0) X (x,x,12) model in the plot below shows our training set, testing set and predictions of reported confirmed cases of Measles outbreaks. The Mean Squared Error(MSE) resulted in X value. This model had the least MSE compared to other models, and can be concluded to be our best model.
+
+>Image of Model 
+
+### Evaluation of Model 
+
+* Looking into each outbreaks 
 
 ## Conclusion 
 
+Overall, by looking at historical surveillance data in European countries, we were able to create a time series model predicting Measles outbreaks in Germany. This model could be use as an early warning systems 
+
+However, there are many limitations with this model 
+
+
+### Limitations
+
+* Targeted Germany but what about other countries (Difficult to capture seasonality, trends)
+> looking into Italy
+> looking into Austria 
+* Accurate data for vaccination rate especially newborns
+* Herd Immunity 
+* Outbreaks in certain community 
+* Further deep dive if there are additional reasons for outbreaks > Travelers
+
 ## Next Steps 
+
+* Providing Real-Time data this can be used as continent-wide disease surveillance for early warning detections
+* Predicting which country is most likely going to experience a Measles outbreaks 
+* Using GeoSpatial data to create a model where countries are assigned higher risk if neighboring countries have outbreaks 
+
 
 
 <!-- ECDC's Mission: 
@@ -65,6 +92,8 @@ Does the student select and use metrics relevant to the problem objective?
 Does the student interpret the results of their model for purposes of inference?
 Is domain knowledge demonstrated when interpreting results?
 Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
+
+
 Conclusion and Recommendations
 
 Does the student provide appropriate context to connect individual steps back to the overall project?
