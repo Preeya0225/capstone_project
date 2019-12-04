@@ -50,9 +50,10 @@ In conclusion, utilizing our vaccination records and historical data from measle
 
 In our time series model, the SARIMAX (1,0,0) X (x,x,12) model in the plot below shows our training set, testing set and predictions of reported confirmed cases of Measles outbreaks. The Mean Squared Error(MSE) resulted in X value. This model had the least MSE compared to other models, and can be concluded to be our best model.
 
->Image of Model 
+![modeling](./images/modeling/SARIMAX_model.jpeg)
 
 ### Evaluation of Model 
+
 
 * Looking into each outbreaks 
 
