@@ -48,13 +48,15 @@ In conclusion, utilizing our vaccination records and historical data from measle
 
 ## Modeling 
 
-In our time series model, the SARIMAX (1,0,0) X (x,x,12) model in the plot below shows our training set, testing set and predictions of reported confirmed cases of Measles outbreaks. The Mean Squared Error(MSE) resulted in X value. This model had the least MSE compared to other models, and can be concluded to be our best model.
+In our time series model, the SARIMAX (1,0,0) X (2,0,1,12) model in the plot below shows our training set, testing set and predictions of reported confirmed cases of Measles outbreaks. The Mean Squared Error(MSE) resulted in X value. This model had the least MSE compared to other models, and can be concluded to be our best model.
 
 ![modeling](./images/modeling/SARIMAX_model.jpeg)
 
 ### Evaluation of Model 
 
-* Looking into each outbreaks 
+According to the US National Library of Medicine National Institutes of Health, from beginning 2014 to 2015 outbreaks in Germany was caused by asylum seekers and spread among the insufficiently vaccinated resident population in Berlin (More information on resource click [here](https://www.ncbi.nlm.nih.gov/pubmed/28857043). As we can see in the modeling plot above Measles cases around 2014 and 2015 were the highest in the history of Measles outbreaks in Germany. Our SARIMAX model was not able to fully capture the intensity of outbreaks during 2015. One reason why our model was not able to capture the outbreak could have been caused due to drastic change of population growth. According to recent data published by the UNHCR, Germany is home to the most refugees by far in Europe - 1.4 million in total by the end of 2019 (more information on resource click [here](https://www.statista.com/chart/14494/germany-is-home-to-the-most-refugees/). This change of population could have affected our vaccination rate significantly. 
+
+Overall, our model did capture most of the outbreaks in 2016, but not in 2017 or 2018. This model does require additional improvements, however, we were able to successfully forecast measles outbreaks using its relationship with vaccination coverage with a MSE of 5500. This value was the lowest of all our time series models and can be considered as our best model so far. The MSE is still relatively high, showing that our model can stil be more improved. 
 
 ## Conclusion 
 
