@@ -56,7 +56,7 @@ In our time series model, the SARIMAX (1,0,0) X (2,0,1,12) model in the plot bel
 
 According to the US National Library of Medicine National Institutes of Health, from beginning 2014 to 2015 outbreaks in Germany was caused by asylum seekers and spread among the insufficiently vaccinated resident population in Berlin (More information on resource click [here](https://www.ncbi.nlm.nih.gov/pubmed/28857043). As we can see in the modeling plot above Measles cases around 2014 and 2015 were the highest in the history of Measles outbreaks in Germany. Our SARIMAX model was not able to fully capture the intensity of outbreaks during 2015. One reason why our model was not able to capture the outbreak could have been caused due to drastic change of population growth. According to recent data published by the UNHCR, Germany is home to the most refugees by far in Europe - 1.4 million in total by the end of 2019 (more information on resource click [here](https://www.statista.com/chart/14494/germany-is-home-to-the-most-refugees/). This change of population could have affected our vaccination rate significantly. 
 
-Overall, our model did capture most of the outbreaks in 2016, but not in 2017 or 2018. This model does require additional improvements; however, we were able to successfully forecast measles outbreaks using its relationship with vaccination coverage with an MSE of 5500. This value was the lowest of all our time series models and can be considered as our best model so far. The MSE is still relatively high, showing that our model can still be more improved. 
+Overall, our model did capture most of the outbreaks in 2016, but not in 2017 or 2018. There was a slight delay (1-2 months) in our predictions and the actual outbreaks. This proves that our model does require additional improvements; however, we were able to successfully forecast Measles outbreaks using its relationship with vaccination coverage. With an MSE of 5500, the lowest value of all our time series models, this model can be considered as our best model so far. The MSE is still relatively high, showing that our model can still be further improved. 
 
 ## Conclusion 
 
@@ -88,6 +88,8 @@ As already mentioned in conclusion, one way to improve our prediction model is t
 One way to approaching this problem is using Spatial Data Analysis (more information [here](https://geodacenter.github.io/)) GeoDa is designed to facilitate new insights from data analysis by exploring and modeling spatial patterns.
 
 Additionally, by providing real-time data, this model can be used as continent-wide disease surveillance for early warning detections, not just for Germany, but also for other countries in Europe. Obtaining more accurate vaccination rate would be the first step in improving this model.
+
+Furthermore, we can build an additional model such as VAR-model (Vector Autoregression model). This way we can also forecast our X-variables such as vaccination records as well as reported Measles cases. During modeling we had discovered that using reported Measles cases would give us more accurate results. However, SARIMAX model is not suited for that, but VAR-model is. Another next step would be building a VAR-model with the datasets.
 
 These are just few examples of how our model can still be improved in the future. 
 
