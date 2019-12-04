@@ -84,7 +84,7 @@ As already mentioned in conclusion, one way to improve our prediction model is t
   <img width="500" height="600" src="./images/map.gif">
 </p>
 
-One way to approaching this problem is using Spatial Data Analysis (more information [here](https://geodacenter.github.io/)) GeoDa is designed to facilitate new insights from data analysis by exploring and modeling spatial patterns.
+One way to approaching this problem is using Spatial Data Analysis (more information [here](https://geodacenter.github.io/)). GeoDa is designed to facilitate new insights from data analysis by exploring and modeling spatial patterns.
 
 Additionally, by providing real-time data, this model can be used as continent-wide disease surveillance for early warning detections, not just for Germany, but also for other countries in Europe. Obtaining more accurate vaccination rate would be the first step in improving this model.
 
