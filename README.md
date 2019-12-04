@@ -77,7 +77,7 @@ However, there are many limitations with this model
 
 
 <p align="center">
-  <img width="400" height="600" src="./images/map.gif">
+  <img width="450" height="500" src="./images/map.gif">
 </p>
 
 * Providing Real-Time data this can be used as continent-wide disease surveillance for early warning detections
