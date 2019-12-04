@@ -60,20 +60,22 @@ Overall, our model did capture most of the outbreaks in 2016, but not in 2017 or
 
 ## Conclusion 
 
-Overall, by looking at historical surveillance data in European countries, we were able to create a time series model predicting Measles outbreaks in Germany. This model could be use as an early warning systems 
-
-However, there are many limitations with this model 
+Overall, by looking at historical surveillance data in European countries, we were able to create a time series model predicting Measles outbreaks in Germany. This model could be very benificial for early meales outbreaks warning in the future. However, there are many limitations with this model, which are listed below in the limitation section. 
 
 
 ### Limitations
 
-* Targeted Germany but what about other countries (Difficult to capture seasonality, trends)
-> looking into Italy
-> looking into Austria 
-* Accurate data for vaccination rate especially newborns
-* Herd Immunity 
-* Outbreaks in certain community 
-* Further deep dive if there are additional reasons for outbreaks > Travelers
+#### Targeting Country
+One biggest limitation in our model is the fact that we targeted one specific country, where outbreaks frequently occured over time. For instances, this model will not be able to capture outbreaks in other country such as Italy or Romania, where outbreaks don't occur frequently. However, these two countries have the highest number of Meales outbreaks in history of Europe. Additionally, Austria showed many outbreaks and it is the neighboring country of Germany. Since there is open border rule in Europe, where traveling from one country to a neighboring country is quite easy, diseases are easily spread. Measles is highly contagious and air-born, therefore it can be conluded that outbreaks in one country puts neighboring countries at more risk of outbreaks. We are not able to capture this relation in our model.
+
+
+#### Accurate Vaccination Data
+One crucial information we need for our model is the most accurate vaccination records. 
+
+> To achieve herd immunity for measles at least 90-95% of the population need to be vaccinated (More information on resource and herd immunity click [here](https://www.ovg.ox.ac.uk/news/herd-immunity-how-does-it-work))
+
+For children, and in particular young children and Newborns, are at the highest risk of Measles diseases and need to be protected by herd immunity if they are not vaccinated. If the vaccination rate drops below the threshold of herd immunity, many people will be at risk. For instances, Newborn babies who are too young to be vaccinated totally depend on herd immunity. Having accuracte vaccination records is crucial for our model. We only had the overall yearly vaccination rate from the entire country. Therefore, we took the yearly rate and converted it into the monthly rate for our model. This is one big limitation in our model as vaccination rate yearly might not be as accurate to represent every month. Vaccination rate might increase or decrease monthly. 
+
 
 ## Next Steps 
 
@@ -88,24 +90,3 @@ However, there are many limitations with this model
 
 
 
-<!-- ECDC's Mission: 
- According to Article 3 of the Founding Regulation, ECDC's mission is to identify, assess and communicate current and emerging threats to human health posed by infectious diseases. In order to achieve this mission, ECDC works in partnership with national health protection bodies across Europe to strengthen and develop continent-wide disease surveillance and early warning systems. By working with experts throughout Europe, ECDC pools Europe's health knowledge to develop authoritative scientific opinions about the risks posed by current and emerging infectious diseases. -->
-
-
-<!-- Evaluation and Conceptual Understanding
-
-Does the student accurately identify and explain the baseline score?
-Does the student select and use metrics relevant to the problem objective?
-Does the student interpret the results of their model for purposes of inference?
-Is domain knowledge demonstrated when interpreting results?
-Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
-
-
-Conclusion and Recommendations
-
-Does the student provide appropriate context to connect individual steps back to the overall project?
-Is it clear how the final recommendations were reached?
-Are the conclusions/recommendations clearly stated?
-Does the conclusion answer the original problem statement?
-Does the student address how findings of this research can be applied for the benefit of stakeholders?
-Are future steps to move the project forward identified? -->
