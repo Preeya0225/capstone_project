@@ -82,7 +82,7 @@ For children, and in particular young children and Newborns, are at the highest 
 As already mentioned in conclusion, one way to improve our prediction model is to include outbreaks in neighboring country. Below is a Choropleth map of Measles outbreaks from 2018 to 2019. We can see that in most cases that if there is a high number of outbreaks in one country, neighboring countries also are experiencing outbreaks. 
 
 <p align="center">
-  <img width="500" height="500" src="./images/map.gif">
+  <img width="500" height="600" src="./images/map.gif">
 </p>
 
 One way to approaching this problem is using Spatial Data Analysis (more information [here](https://geodacenter.github.io/)) GeoDa is designed to facilitate new insights from data analysis by exploring and modeling spatial patterns.
