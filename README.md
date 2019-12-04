@@ -54,7 +54,6 @@ In our time series model, the SARIMAX (1,0,0) X (x,x,12) model in the plot below
 
 ### Evaluation of Model 
 
-
 * Looking into each outbreaks 
 
 ## Conclusion 
@@ -75,6 +74,8 @@ However, there are many limitations with this model
 * Further deep dive if there are additional reasons for outbreaks > Travelers
 
 ## Next Steps 
+
+![gif](./images/map.gif)
 
 * Providing Real-Time data this can be used as continent-wide disease surveillance for early warning detections
 * Predicting which country is most likely going to experience a Measles outbreaks 
