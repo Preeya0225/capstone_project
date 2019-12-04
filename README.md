@@ -75,7 +75,10 @@ However, there are many limitations with this model
 
 ## Next Steps 
 
-![gif](./images/map.gif)
+
+<p align="center">
+  <img width="400" height="400" src="./images/map.gif">
+</p>
 
 * Providing Real-Time data this can be used as continent-wide disease surveillance for early warning detections
 * Predicting which country is most likely going to experience a Measles outbreaks 
